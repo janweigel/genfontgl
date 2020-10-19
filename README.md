@@ -1,4 +1,7 @@
 genfontgl
+----
+This is a fork of https://github.com/openmaptiles/genfontgl with updated fontnik version
+
 -----
 A simple command line tool to generate fonts for Mapbox GL via fontnik without gzipping the result.
 
